@@ -14,12 +14,14 @@
 
 ## Contents
 
-1. [2026-10-05 — Work session](#2026-10-05-work-session)
+1. [2026-10-05 — Work session; Followed Starbie Tutorial and build out PCB in KiCAD](#2026-10-05-work-session-followed-starbie-tutorial-and-build-)
 
 ## Design
 
-### 2026-10-05 — Work session
+### 2026-10-05 — Work session; Followed Starbie Tutorial and build out PCB in KiCAD
 
 **2.18h**
+
+Work session; Followed Starbie Tutorial and build out PCB in KiCAD
 
 [Timelapse](https://lookout.hackclub.com/api/media/b222e90c-8788-4a13-a550-d8d5d28e4caa/video.mp4)
