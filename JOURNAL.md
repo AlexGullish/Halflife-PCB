@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 3.26h | 2 |
+| Week 1 | Tier 1 | 3.76h | 2 |
 
 ## Contents
 
 1. [2026-10-05 – Work session; Followed Starbie Tutorial and build out PCB in KiCAD](#2026-10-05-work-session-followed-starbie-tutorial-and-build-)
-2. [2026-10-08 – Work session](#2026-10-08-work-session)
+2. [2026-10-08 – Began writing firmware and planning out features. Read through docs and Starbie Github to get a grasp and started to freestyle potential ideas](#2026-10-08-began-writing-firmware-and-planning-out-features-)
 
 ## Design
 
@@ -27,8 +27,10 @@ Work session; Followed Starbie Tutorial and build out PCB in KiCAD
 
 [Timelapse](https://lookout.hackclub.com/api/media/b222e90c-8788-4a13-a550-d8d5d28e4caa/video.mp4)
 
-### 2026-10-08 – Work session
+### 2026-10-08 – Began writing firmware and planning out features. Read through docs and Starbie Github to get a grasp and started to freestyle potential ideas
 
-**1.08h**
+**1.58h**
+
+Began writing firmware and planning out features. Read through docs and Starbie Github to get a grasp and started to freestyle potential ideas
 
 [Timelapse](https://lookout.hackclub.com/api/media/d6440488-2318-47ac-874c-e1eb0baf15d8/video.mp4)
