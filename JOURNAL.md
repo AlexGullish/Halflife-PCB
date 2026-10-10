@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.79h | 3 |
+| Week 1 | Tier 1 | 6.59h | 3 |
 
 ## Contents
 
@@ -38,6 +38,10 @@ Began writing firmware and planning out features. Read through docs and Starbie 
 
 ### 2026-10-10 – Work session
 
-**2.03h**
+**2.83h**
+
+Work session
+
+Continued to build out the firmware, added particle effects and added different emotions for the starbie
 
 [Timelapse](https://lookout.hackclub.com/api/media/263c7e41-a9f8-41bf-9cdc-68843656afa6/video.mp4)
