@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 8.21h | 4 |
+| Week 1 | Tier 1 | 8.96h | 4 |
 
 ## Contents
 
@@ -23,7 +23,7 @@
 
 ### 2026-10-05 – Work session; Followed Starbie Tutorial and build out PCB in KiCAD
 
-**2.18h**
+**2.93h**
 
 Work session; Followed Starbie Tutorial and build out PCB in KiCAD
 
