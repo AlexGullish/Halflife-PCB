@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10.56h | 5 |
+| Week 1 | Tier 1 | 10.57h | 5 |
 
 ## Contents
 
@@ -50,7 +50,7 @@ Continued to build out the firmware, added particle effects and added different 
 
 ### 2026-10-11 – Finished up firmware and dig some debugging. Committed everything to GitHub and wrote out a read me. Will look over the firmware to make sure everything looks good but should be about ready to submit
 
-**1.62h**
+**1.63h**
 
 Finished up firmware and dig some debugging. Committed everything to GitHub and wrote out a read me. Will look over the firmware to make sure everything looks good but should be about ready to submit soon.
 
