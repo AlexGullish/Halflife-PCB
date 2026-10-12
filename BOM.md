@@ -19,7 +19,7 @@
 | [DHT11](https://www.bastelgarage.ch/sensoren/temperatur/dht11-temperatur-und-luftfeuchtigkeitssensor) | Temperature Sensing | 1 | $4.70 | $4.70 | [Bastelgarage](https://www.bastelgarage.ch/sensoren/temperatur/dht11-temperatur-und-luftfeuchtigkeitssensor) |
 | [XIAO-ESP32-C3-SMD](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Main Microcontroller | 1 | $4.90 | $4.90 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | **Parts subtotal** | — | — | — | **$10.37** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$10.37** | — |
+| **Tax & shipping** | — | — | — | **$1.00** | — |
+| **Total** | — | — | — | **$11.37** | — |
 
-$19.63 left of the tier's funding.
+$18.63 left of the tier's funding.
