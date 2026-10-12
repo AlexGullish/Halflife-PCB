@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10.57h | 5 |
+| Week 1 | Tier 1 | 10.67h | 5 |
 
 ## Contents
 
@@ -32,7 +32,7 @@ Work session; Followed Starbie Tutorial and build out PCB in KiCAD
 
 ### 2026-10-08 – Began writing firmware and planning out features. Read through docs and Starbie Github to get a grasp and started to freestyle potential ideas
 
-**1.58h**
+**1.68h**
 
 Began writing firmware and planning out features. Read through docs and Starbie Github to get a grasp and started to freestyle potential ideas
 
