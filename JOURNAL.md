@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10.46h | 5 |
+| Week 1 | Tier 1 | 10.56h | 5 |
 
 ## Contents
 
@@ -58,7 +58,7 @@ Finished up firmware and dig some debugging. Committed everything to GitHub and 
 
 ### 2026-10-11 – Fixed a bunch of compiling errors and stupid missing semicolons. Everything compiles now and I am fairly happy with the amount of features I've added which are emotions, challenges, particles and some
 
-**1.5h**
+**1.6h**
 
 Fixed a bunch of compiling errors and stupid missing semicolons. Everything compiles now and I am fairly happy with the amount of features I've added which are emotions, challenges, particles and some custom expressions. Everything seems to look good with no blatant errors though I'll test everything properly during the building phase
 
