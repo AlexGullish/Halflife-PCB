@@ -1,6 +1,6 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 OLED,1,BerryBase,$8.20,$8.20,https://www.berrybase.ch/en/1.3-128x64-oled-display-module-single-colour-blue-spi-i2c-interface-vertical-pin-header
-MPU 6050,1,Bastelgarage,$13.14,$13.14,https://www.bastelgarage.ch/mpu-6050-3-achsen-beschleunigungssensor-mit-gyroskop?search=mpu%2060
+MPU 6050,1,Amazon,$6.98,$6.98,https://www.amazon.com/Wishiot-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B0C3LDTTBJ?dib=eyJ2IjoiMSJ9._zRQIjLy8SJUb458TCsORetJgOfbFuZygfVdp0jxk34bobJYxcCET9ZKo2ZIjJmWwoVwIGVx7ZHQtCuZ8lxhPdDJgTMchD72SZbX7_gADpVgQRINv9Yntp1f5SWZtD32cBRzmLcA0oXt_Qdg16pTw3wSQuJebnQZld4aCFmDqOKxbRcdQZWLawOwqldtDbAyASD-vnyRJBVbXghbnCjyX2qR8vWZ4UfXSNIvHhu6Au0.7I4zY03kIePsyJjJuE0HxgEnDAcv7tHNtNGlewJVsA0&dib_tag=se&keywords=mpu-6050&qid=1792541802&sr=8-19
 10k,1,BerryBase,$0.06,$0.06,https://www.berrybase.ch/en/metal-film-resistor-1.0-kohm-1-4w-1-0207-axial-through-hole-mounting
 Cherry Switches,2,BerryBase,$1.32,$2.64,https://www.berrybase.ch/en/cherry-mx-blue-pushbutton-module-pcb-fixing-pin
 DHT11,1,Bastelgarage,$4.70,$4.70,https://www.bastelgarage.ch/sensoren/temperatur/dht11-temperatur-und-luftfeuchtigkeitssensor
