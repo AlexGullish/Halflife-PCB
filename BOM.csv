@@ -1,0 +1,9 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+OLED,1,BerryBase,$8.20,$8.20,https://www.berrybase.ch/en/1.3-128x64-oled-display-module-single-colour-blue-spi-i2c-interface-vertical-pin-header
+MPU 6050,1,Bastelgarage,$13.14,$13.14,https://www.bastelgarage.ch/mpu-6050-3-achsen-beschleunigungssensor-mit-gyroskop?search=mpu%2060
+10k,1,BerryBase,$0.06,$0.06,https://www.berrybase.ch/en/metal-film-resistor-1.0-kohm-1-4w-1-0207-axial-through-hole-mounting
+SW_Push,2,BerryBase,$0.16,$0.32,https://www.berrybase.ch/en/short-stroke-pushbutton-vertical-pcb-mounting-6x6mm-h-4.3mm
+DHT11,1,Bastelgarage,$4.70,$4.70,https://www.bastelgarage.ch/sensoren/temperatur/dht11-temperatur-und-luftfeuchtigkeitssensor
+XIAO-ESP32-C3-SMD,1,Seeed Studio,$4.90,$4.90,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+PCB,1,JLCPCB,$4.00,$4.00,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
+Estimated total shipping,1,,,$0.00,
